@@ -1,7 +1,7 @@
 Evaluation metrics
 ==================
 
-SpaBE evaluates each integration method along **two axes** with **ten
+SpaBEC evaluates each integration method along **two axes** with **ten
 metrics in total**. Five metrics quantify *batch-effect removal*, and
 five quantify *biological-signal preservation*. The implementations live
 in ``code/comparison/``.

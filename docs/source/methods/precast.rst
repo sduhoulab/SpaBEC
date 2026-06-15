@@ -5,7 +5,7 @@ PRECAST
 probabilistic embedding, clustering and alignment of multi-section ST
 data.
 
-This is the **only R-based** method in the SpaBE benchmark.
+This is the **only R-based** method in the SpaBEC benchmark.
 
 Installation
 ------------

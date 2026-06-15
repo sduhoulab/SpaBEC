@@ -1,7 +1,7 @@
 Citation
 ========
 
-If you use the SpaBE framework, datasets layout, or any of the
+If you use the SpaBEC framework, datasets layout, or any of the
 reproducibility scripts in your work, please cite:
 
 .. code-block:: bibtex
@@ -25,4 +25,4 @@ Contact
 -------
 
 * Maintainer: Qingzhen Hou, Shandong University
-* Issues and pull requests are welcome on the SpaBE GitHub repository.
+* Issues and pull requests are welcome on the SpaBEC GitHub repository.
