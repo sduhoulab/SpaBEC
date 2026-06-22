@@ -32,7 +32,7 @@ exclude_patterns = []
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
-html_title = 'SpaBEC Reproducibility'
+html_title = 'SpaBEAT Reproducibility'
 html_short_title = 'SpaBE'
 
 html_theme_options = {

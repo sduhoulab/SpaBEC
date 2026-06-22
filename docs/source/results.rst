@@ -1,7 +1,7 @@
 Results
 =======
 
-This page summarises the high-level findings of the SpaBEC benchmark and
+This page summarises the high-level findings of the SpaBEAT benchmark and
 points to the figures / tables produced by the scripts in
 ``code/comparison/``.
 

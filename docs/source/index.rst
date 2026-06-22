@@ -26,7 +26,7 @@ metrics that capture both batch-effect removal and biological signal preservatio
 .. note::
 
    This project is under active development. The reproducibility code lives
-   in the ``code/`` directory of the SpaBEC repository.
+   in the ``code/`` directory of the SpaBEAT repository.
 
 Contents
 --------

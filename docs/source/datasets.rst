@@ -1,7 +1,7 @@
 Data availability
 =================
 
-SpaBEC benchmarks four spatial transcriptomics datasets that span the four
+SpaBEAT benchmarks four spatial transcriptomics datasets that span the four
 batch-effect categories introduced on the :doc:`home page <index>`.
 
 Summary
