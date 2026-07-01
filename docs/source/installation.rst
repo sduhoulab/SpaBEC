@@ -1,7 +1,7 @@
 Installation
 ============
 
-The **SpaBEC** benchmark reproduces seven spatial transcriptomics integration
+The **SpaBEAT** benchmark reproduces seven spatial transcriptomics integration
 methods and ten evaluation metrics. Because the seven methods have
 mutually incompatible Python/R environments, we recommend creating one
 :command:`conda` environment **per method**.
@@ -26,8 +26,8 @@ Clone the repository
 
 .. code-block:: console
 
-   $ git clone https://github.com/sduhoulab/SpaBEC.git
-   $ cd SpaBEC
+   $ git clone https://github.com/sduhoulab/SpaBEAT.git
+   $ cd SpaBEAT
 
 The reproducibility scripts live under ``code/``:
 
@@ -41,6 +41,9 @@ The reproducibility scripts live under ``code/``:
    ├── SPIRAL/         # SPIRAL reproduction scripts
    ├── STitch3D/       # STitch3D reproduction scripts
    ├── spatialign/     # spatiAlign reproduction scripts
+   ├── SpaBatch/       # SpaBatch reproduction scripts
+   ├── SpaCross/       # SpaCross reproduction scripts
+   ├── SpaMask/        # SpaMask reproduction scripts
    └── comparison/     # Metrics, UMAPs, ranking and plotting
 
 Create a base environment
@@ -52,8 +55,8 @@ embeddings**:
 
 .. code-block:: console
 
-   $ conda create -n spabe-eval python=3.9 -y
-   $ conda activate spabe-eval
+   $ conda create -n spabeat-eval python=3.9 -y
+   $ conda activate spabeat-eval
    $ pip install \
        scanpy==1.9.3 \
        anndata==0.9.2 \

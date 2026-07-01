@@ -1,5 +1,9 @@
-SpaBEAT Reproducibility
+SpaBEAT
 =====================
+
+.. note::
+
+   This documentation corresponds to the revised manuscript.
 
 **SpaBEAT** is a reproducibility framework that systematically defines and
 benchmarks **batch effects in spatial transcriptomics (ST)**.
@@ -49,6 +53,9 @@ Contents
    methods/spiral
    methods/stitch3d
    methods/spatialign
+   methods/spabatch
+   methods/spacross
+   methods/spamask
 
 .. toctree::
    :maxdepth: 2
