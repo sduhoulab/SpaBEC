@@ -6,9 +6,9 @@ reproducibility scripts in your work, please cite:
 
 .. code-block:: bibtex
 
-   @article{spabe2026,
+   @article{spabeat2026,
      title   = {A systematic framework for defining and evaluating batch correction in spatial transcriptomics},
-     author  = {Hou, Qingzhen and others},
+     author  = {Hou, Qingzhen},
      journal = {Manuscript in preparation},
      year    = {2026}
    }

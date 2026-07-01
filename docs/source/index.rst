@@ -30,7 +30,7 @@ metrics that capture both batch-effect removal and biological signal preservatio
 .. note::
 
    This project is under active development. The reproducibility code lives
-   in the ``code/`` directory of the [SpaBEAT](https://github.com/sduhoulab/SpaBEAT) repository.
+   in the ``code/`` directory of the `SpaBEAT <https://github.com/sduhoulab/SpaBEAT>`_ repository.
 
 Contents
 --------
