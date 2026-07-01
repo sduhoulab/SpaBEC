@@ -7,8 +7,7 @@ reproducibility scripts in your work, please cite:
 .. code-block:: bibtex
 
    @article{spabe2026,
-     title   = {Towards a Better Understanding of Batch Effects in
-                Spatial Transcriptomics: Definition and Method Evaluation},
+     title   = {A systematic framework for defining and evaluating batch correction in spatial transcriptomics},
      author  = {Hou, Qingzhen and others},
      journal = {Manuscript in preparation},
      year    = {2026}
